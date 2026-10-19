@@ -1,2 +1,11 @@
+# KiCad temporary, backup and user settings
+*.kicad_prl
+*.rpt
 *-bak
+*.bak
+*-save.kicad_*
+_autosave-*
+*.lck
+~*.lck
+.history/
 *.zip
